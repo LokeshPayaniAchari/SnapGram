@@ -11,7 +11,7 @@ export const appwriteConfig = {
   databaseId: '658bbfee3560331fe269',
   storageId: '658bbf552cbb332d53fd',
   userCollectionId: '658bc0756f0e4a595a54',
-  postCollectionId: '658bc03fd4416f83060',
+  postCollectionId: '658bc03fd4416f830601',
   savesCollectionId: '658bc091597bf3b6d6b6',
 };
 
